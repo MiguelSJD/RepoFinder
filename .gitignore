@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio & IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Android-specific
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.keystore
+*.jks
+
+# IntelliJ specific
+out/
+
+# Logs
+*.log
+
+# Generated files by Gradle
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Unit test and instrumentation test results
+/test-*/
+*test*/
+test*/test-*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.idea/libraries/
+*.kotlin_module
+*.kotlin_bin/
+
+# Jetpack Compose
+android/.gradle/
+compose-out/

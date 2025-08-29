@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">%s Repositories</string>
+    <string name="home_title_default">Repositories</string>
+    <string name="home_filter_button_content_description">Filter</string>
+    <string name="home_fetch_repositories_generic_error_message">Unable to fetch repositories</string>
+    <string name="home_fetch_selected_language_generic_error_message">Unable to fetch previous selected language</string>
+    <string name="home_all_repositories_fetched_error_message">Unable to find more repositories</string>
+    <string name="home_retry_button_label">Retry</string>
+    <string name="home_ok_button_label">OK</string>
+
+    <string name="home_filter_bottom_sheet_title">Filter by language</string>
+    <string name="home_filter_bottom_sheet_selected_content_description">Current language</string>
+
+    <string name="home_owner_avatar_content_description">Owner avatar</string>
+    <string name="home_stars_amount_content_description">%s Stars</string>
+</resources>

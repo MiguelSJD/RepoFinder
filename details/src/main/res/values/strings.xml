@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="details_stars_amount">%s Stars</string>
+    <string name="details_forks_amount">%s Forks</string>
+    <string name="details_watchers">Watchers</string>
+    <string name="details_issues">Issues</string>
+    <string name="details_license">License</string>
+    <string name="details_created_at">Created at</string>
+    <string name="details_updated">Updated %s</string>
+    <string name="home_fetch_repository_error_message">Unable to fetch details from repository</string>
+    <string name="details_ok_button_label">OK</string>
+    <string name="details_share_button_label">Share</string>
+    <string name="details_open_github_button_label">Open GitHub</string>
+    <string name="details_owner_avatar_content_description">Owner avatar</string>
+</resources>

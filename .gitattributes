@@ -1,0 +1,45 @@
+# Enforce LF line endings for all text files
+* text=auto eol=lf
+
+# Kotlin / Java source files
+*.kt text eol=lf
+*.kts text eol=lf
+*.java text eol=lf
+
+# Gradle files
+*.gradle text eol=lf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+# Scripts
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Configuration files
+*.xml text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.properties text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Binaries (no line-ending conversion)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.jar binary
+*.keystore binary
+*.ttf binary
+*.otf binary
+*.mp3 binary
+*.mp4 binary
+*.avi binary
+*.apk binary
+*.aab binary
